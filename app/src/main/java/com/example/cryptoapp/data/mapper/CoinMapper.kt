@@ -1,7 +1,6 @@
 package com.example.cryptoapp.data.mapper
 
 import com.example.cryptoapp.data.database.CoinInfoDbModel
-import com.example.cryptoapp.data.network.ApiFactory.BASE_IMAGE_URL
 import com.example.cryptoapp.data.network.model.CoinInfoDto
 import com.example.cryptoapp.data.network.model.CoinInfoJsonContainerDto
 import com.example.cryptoapp.data.network.model.CoinNamesListDto
